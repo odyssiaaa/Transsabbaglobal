@@ -1,0 +1,740 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - link "T S G TRANS SABBAGLOBAL Freight Forwarding & Logistics" [ref=e6] [cursor=pointer]:
+        - /url: "#hero"
+        - generic [ref=e8]:
+          - text: T
+          - generic [ref=e9]: S
+          - text: G
+        - generic [ref=e10]:
+          - generic [ref=e11]: TRANS SABBAGLOBAL
+          - generic [ref=e12]: Freight Forwarding & Logistics
+      - generic [ref=e13]:
+        - button "Request Quotation" [ref=e14] [cursor=pointer]
+        - link "Contact Us" [ref=e18] [cursor=pointer]:
+          - /url: "#contact"
+      - button "Toggle menu" [ref=e19] [cursor=pointer]
+    - generic [ref=e22]:
+      - generic [ref=e24]:
+        - generic [ref=e26]: Trans SabbaGlobal
+        - generic [ref=e27]: "|"
+        - generic [ref=e28]: Delivering Excellence Since Inception
+      - generic [ref=e29]:
+        - heading "Freight Is Our Business" [level=1] [ref=e30]
+        - paragraph [ref=e31]: Your Trusted International Freight Forwarder & Logistics Partner Delivering Reliable, Fast, and Efficient Supply Chain Solutions Worldwide.
+        - generic [ref=e32]:
+          - button "Request Quotation" [ref=e33] [cursor=pointer]
+          - link "Explore Services" [ref=e37] [cursor=pointer]:
+            - /url: "#services"
+      - generic [ref=e38]:
+        - generic [ref=e39] [cursor=pointer]:
+          - generic [ref=e41]: Industry Veteran
+          - generic [ref=e47]:
+            - generic [ref=e48]: 0+
+            - generic [ref=e50]: Years
+            - generic [ref=e51]: Experience
+        - generic [ref=e52] [cursor=pointer]:
+          - generic [ref=e54]: Global Network
+          - generic [ref=e62]:
+            - generic [ref=e63]: 0+
+            - generic [ref=e65]: Business
+            - generic [ref=e66]: Partners
+        - generic [ref=e67] [cursor=pointer]:
+          - generic [ref=e69]: Worldwide Reach
+          - generic [ref=e77]:
+            - generic [ref=e78]: International
+            - generic [ref=e79]: Ocean & Air Freight
+            - paragraph [ref=e80]: Direct FCL/LCL, chartered air cargo & port-to-port solutions
+        - generic [ref=e81] [cursor=pointer]:
+          - generic [ref=e83]: Archipelago Coverage
+          - generic [ref=e91]:
+            - generic [ref=e92]: Indonesia
+            - generic [ref=e93]: Domestic Logistics
+            - paragraph [ref=e94]: Complete inter-island sea freight, trucking & customs clearance
+      - generic [ref=e96]:
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e102]: Global Route Network
+            - generic [ref=e103]: •
+            - generic [ref=e104]: Active Marine & Air Corridors
+          - generic [ref=e105]:
+            - generic [ref=e106]: "HUB: 06°12′S 106°49′E"
+            - generic [ref=e107]: 24/7 Monitored
+        - generic [ref=e114]:
+          - img [ref=e115]:
+            - generic [ref=e136]: USA
+            - generic [ref=e138]: Germany
+            - generic [ref=e140]: Italy
+            - generic [ref=e142]: East Asia
+          - generic [ref=e152] [cursor=pointer]:
+            - generic [ref=e153]: Global HQ & Port Hub
+            - generic [ref=e156]: Indonesia, Jakarta
+        - generic [ref=e157]:
+          - generic [ref=e158]: Tanjung Priok Port
+          - generic [ref=e163]: Soekarno-Hatta Cargo
+          - generic [ref=e167]: 100+ Partner Ports
+          - generic [ref=e170]: Customs Clearance EDI
+    - generic [ref=e174]:
+      - generic [ref=e175]:
+        - generic [ref=e176]: Core Competencies
+        - heading "Why Trans SabbaGlobal?" [level=2] [ref=e177]
+        - paragraph [ref=e178]: We provide fast, secure, and efficient logistics solutions, backed by a global network and extensive experience in the freight forwarding industry.
+      - generic [ref=e179]:
+        - generic [ref=e180]:
+          - generic [ref=e181]: "01"
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - heading "Experienced Team" [level=3] [ref=e193]
+              - paragraph [ref=e194]: Dedicated logistics engineers, port specialists, and certified forwarding managers handling your cargo.
+            - generic [ref=e195]: Verified Standard
+        - generic [ref=e199]:
+          - generic [ref=e200]: "02"
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - heading "Reliable Services" [level=3] [ref=e211]
+              - paragraph [ref=e212]: Consistent vessel schedules, 24/7 shipment tracking, and reliable door-to-door delivery commitment.
+            - generic [ref=e213]: Verified Standard
+        - generic [ref=e217]:
+          - generic [ref=e218]: "03"
+          - generic [ref=e226]:
+            - generic [ref=e227]:
+              - heading "Competitive Pricing" [level=3] [ref=e228]
+              - paragraph [ref=e229]: Direct carrier volume contracts with tier-1 shipping lines and airlines ensuring cost-effective freight rates.
+            - generic [ref=e230]: Verified Standard
+        - generic [ref=e234]:
+          - generic [ref=e235]: "04"
+          - generic [ref=e246]:
+            - generic [ref=e247]:
+              - heading "Global Network" [level=3] [ref=e248]
+              - paragraph [ref=e249]: Seamless international routing spanning North America, Europe (Germany, Italy), East Asia, and ASEAN.
+            - generic [ref=e250]: Verified Standard
+        - generic [ref=e254]:
+          - generic [ref=e255]: "05"
+          - generic [ref=e263]:
+            - generic [ref=e264]:
+              - heading "Fast Delivery" [level=3] [ref=e265]
+              - paragraph [ref=e266]: Optimized transit times through direct maritime routes, express air cargo, and green-channel port handling.
+            - generic [ref=e267]: Verified Standard
+        - generic [ref=e271]:
+          - generic [ref=e272]: "06"
+          - generic [ref=e282]:
+            - generic [ref=e283]:
+              - heading "Customs Expert" [level=3] [ref=e284]
+              - paragraph [ref=e285]: Certified in-house PPJK customs brokerage, HS Code precision, import/export permits, and duty compliance.
+            - generic [ref=e286]: Verified Standard
+      - button "Learn More About Our Capabilities" [ref=e291] [cursor=pointer]
+    - generic [ref=e297]:
+      - generic [ref=e298]:
+        - generic [ref=e299]: Our Heritage & Vision
+        - heading "Delivering Trust Across Oceans and Skies" [level=2] [ref=e303]
+        - paragraph [ref=e304]:
+          - text: Founded on the principles of speed, integrity, and operational resilience,
+          - strong [ref=e305]: Trans SabbaGlobal
+          - text: has evolved into a premier international freight forwarder. We connect Indonesian manufacturers, exporters, and importers with major world markets.
+        - generic [ref=e306]:
+          - generic [ref=e307]:
+            - heading "Our Mission" [level=4] [ref=e312]
+            - paragraph [ref=e313]: To empower global businesses through dependable, cost-transparent, and punctual cargo delivery.
+          - generic [ref=e314]:
+            - heading "Our Standard" [level=4] [ref=e318]
+            - paragraph [ref=e319]: PPJK compliant, carrier-direct relationships, and dedicated customer success management.
+      - generic [ref=e321]:
+        - heading "Operational Milestones" [level=3] [ref=e322]
+        - generic [ref=e328]:
+          - generic [ref=e329]:
+            - generic [ref=e330]: "01"
+            - generic [ref=e331]:
+              - generic [ref=e332]: Establishment
+              - generic [ref=e333]: Foundations in Tanjung Priok
+              - paragraph [ref=e334]: Started operations as a specialized port clearance and domestic sea cargo agent in Jakarta.
+          - generic [ref=e335]:
+            - generic [ref=e336]: "02"
+            - generic [ref=e337]:
+              - generic [ref=e338]: Expansion
+              - generic [ref=e339]: Global Marine & Air Corridors
+              - paragraph [ref=e340]: Partnered with premier shipping lines and airlines across Asia, Europe, and the Americas.
+          - generic [ref=e341]:
+            - generic [ref=e342]: "03"
+            - generic [ref=e343]:
+              - generic [ref=e344]: Innovation
+              - generic [ref=e345]: Full-Scale Forwarding & Project Cargo
+              - paragraph [ref=e346]: Expanded into heavy lift project cargo, vessel chartering, and integrated end-to-end supply chain management.
+        - generic [ref=e347]:
+          - generic [ref=e348]: Fully Certified Forwarder
+          - generic [ref=e351]: 25+ Years Proven Track Record
+    - generic [ref=e353]:
+      - generic [ref=e354]:
+        - generic [ref=e355]: End-To-End Freight Solutions
+        - heading "Our Core Services" [level=2] [ref=e356]
+        - paragraph [ref=e357]: We provide fast, secure, and efficient logistics solutions, backed by a global network and extensive experience in the freight forwarding industry.
+      - generic [ref=e358]:
+        - generic [ref=e373] [cursor=pointer]:
+          - generic [ref=e374]: Sea Freight FCL / LCL
+          - heading "Ocean Freight" [level=3] [ref=e375]
+          - paragraph [ref=e376]: Full Container Load (FCL) and Less than Container Load (LCL) maritime transport worldwide with guaranteed vessel allocation and competitive sea freight rates.
+          - generic [ref=e377]:
+            - generic [ref=e378]: FCL & LCL Consolidation
+            - generic [ref=e383]: Reefer & Dangerous Goods
+            - generic [ref=e388]: Global Major Port Direct
+          - generic [ref=e393]: Click for Instant Quotation
+        - generic [ref=e410] [cursor=pointer]:
+          - generic [ref=e411]: Express & Scheduled Air Cargo
+          - heading "Air Freight" [level=3] [ref=e412]
+          - paragraph [ref=e413]: Time-critical international and domestic air forwarding delivering speed, security, and real-time flight tracking across international airline alliances.
+          - generic [ref=e414]:
+            - generic [ref=e415]: Next-Flight-Out Service
+            - generic [ref=e420]: Temperature-Controlled Cargo
+            - generic [ref=e425]: Charter Air Cargo Flights
+          - generic [ref=e430]: Click for Instant Quotation
+        - generic [ref=e450] [cursor=pointer]:
+          - generic [ref=e451]: Archipelago Network Indonesia
+          - heading "Domestic Logistic" [level=3] [ref=e452]
+          - paragraph [ref=e453]: Comprehensive domestic transportation connecting Java, Sumatra, Kalimantan, Sulawesi, Bali, Nusa Tenggara, Maluku, and Papua with multi-modal efficiency.
+          - generic [ref=e454]:
+            - generic [ref=e455]: Inter-Island Sea Highway
+            - generic [ref=e460]: Dedicated Trucking Fleet
+            - generic [ref=e465]: Hub & Spoke Warehousing
+          - generic [ref=e470]: Click for Instant Quotation
+        - generic [ref=e495] [cursor=pointer]:
+          - generic [ref=e496]: Heavy Lift & Out of Gauge (OOG)
+          - heading "Project Cargo" [level=3] [ref=e497]
+          - paragraph [ref=e498]: Specialized logistics engineering for mining, oil & gas, infrastructure, and renewable energy sectors requiring custom lashing and specialized vessels.
+          - generic [ref=e499]:
+            - generic [ref=e500]: Heavy Machinery & Mining
+            - generic [ref=e505]: Route Survey & Feasibility
+            - generic [ref=e510]: Turnkey Rigging & Loading
+          - generic [ref=e515]: Click for Instant Quotation
+        - generic [ref=e533] [cursor=pointer]:
+          - generic [ref=e534]: Tug, Barge & Bulk Vessel
+          - heading "Charter Vessel" [level=3] [ref=e535]
+          - paragraph [ref=e536]: Tailored ship broking and vessel chartering for bulk commodities, coal, sand, heavy structural steel, and project mobilization throughout Southeast Asia.
+          - generic [ref=e537]:
+            - generic [ref=e538]: Tug & Barge Rental (230-330 ft)
+            - generic [ref=e543]: Dry Bulk & Liquid Cargo
+            - generic [ref=e548]: Flexible Voyage or Time Charter
+          - generic [ref=e553]: Click for Instant Quotation
+        - generic [ref=e572] [cursor=pointer]:
+          - generic [ref=e573]: PPJK Licensed Customs Brokerage
+          - heading "Customs Clearance" [level=3] [ref=e574]
+          - paragraph [ref=e575]: Official customs brokerage service expediting port customs clearance, PIB / PEB electronic documents, duty optimization, and quarantine compliance.
+          - generic [ref=e576]:
+            - generic [ref=e577]: EDI Green-Line Clearance
+            - generic [ref=e582]: HS Code Classification
+            - generic [ref=e587]: Import / Export Permits & Tax Advisory
+          - generic [ref=e592]: Click for Instant Quotation
+      - generic [ref=e597]:
+        - button "All Services & Custom Logistics" [ref=e598] [cursor=pointer]
+        - link "Speak to a Freight Specialist" [ref=e599] [cursor=pointer]:
+          - /url: https://wa.me/6285169626471?text=Halo%20Trans%20SabbaGlobal,%20saya%20ingin%20konsultasi%20mengenai%20layanan%20kargo...
+    - generic [ref=e600]:
+      - generic [ref=e601]:
+        - generic [ref=e602]: Global Footprint & Trust
+        - heading "Trusted By Industry Leaders" [level=2] [ref=e606]
+        - paragraph [ref=e607]: Connecting worldwide supply chains through international shipping corridors and established corporate partnerships.
+      - generic [ref=e609]:
+        - generic [ref=e610] [cursor=pointer]:
+          - generic [ref=e611]: 🇮🇩
+          - generic [ref=e612]:
+            - generic [ref=e613]:
+              - generic [ref=e614]: Indonesia
+              - generic [ref=e615]: ID
+            - generic [ref=e616]: Jakarta • Surabaya • Medan
+        - generic [ref=e617] [cursor=pointer]:
+          - generic [ref=e618]: 🇺🇸
+          - generic [ref=e619]:
+            - generic [ref=e620]:
+              - generic [ref=e621]: Amerika (USA)
+              - generic [ref=e622]: US
+            - generic [ref=e623]: Los Angeles • New York
+        - generic [ref=e624] [cursor=pointer]:
+          - generic [ref=e625]: 🇩🇪
+          - generic [ref=e626]:
+            - generic [ref=e627]:
+              - generic [ref=e628]: German (Germany)
+              - generic [ref=e629]: DE
+            - generic [ref=e630]: Hamburg • Frankfurt
+        - generic [ref=e631] [cursor=pointer]:
+          - generic [ref=e632]: 🇮🇹
+          - generic [ref=e633]:
+            - generic [ref=e634]:
+              - generic [ref=e635]: Italy
+              - generic [ref=e636]: IT
+            - generic [ref=e637]: Genoa • Milan
+        - generic [ref=e638] [cursor=pointer]:
+          - generic [ref=e639]: 🇸🇬
+          - generic [ref=e640]:
+            - generic [ref=e641]:
+              - generic [ref=e642]: Singapore
+              - generic [ref=e643]: SG
+            - generic [ref=e644]: Port of Singapore
+        - generic [ref=e645] [cursor=pointer]:
+          - generic [ref=e646]: 🇨🇳
+          - generic [ref=e647]:
+            - generic [ref=e648]:
+              - generic [ref=e649]: China
+              - generic [ref=e650]: CN
+            - generic [ref=e651]: Shanghai • Shenzhen
+        - generic [ref=e652] [cursor=pointer]:
+          - generic [ref=e653]: 🇯🇵
+          - generic [ref=e654]:
+            - generic [ref=e655]:
+              - generic [ref=e656]: Japan
+              - generic [ref=e657]: JP
+            - generic [ref=e658]: Tokyo • Yokohama
+        - generic [ref=e659] [cursor=pointer]:
+          - generic [ref=e660]: 🇳🇱
+          - generic [ref=e661]:
+            - generic [ref=e662]:
+              - generic [ref=e663]: Netherlands
+              - generic [ref=e664]: NL
+            - generic [ref=e665]: Rotterdam Hub
+        - generic [ref=e666] [cursor=pointer]:
+          - generic [ref=e667]: 🇮🇩
+          - generic [ref=e668]:
+            - generic [ref=e669]:
+              - generic [ref=e670]: Indonesia
+              - generic [ref=e671]: ID
+            - generic [ref=e672]: Jakarta • Surabaya • Medan
+        - generic [ref=e673] [cursor=pointer]:
+          - generic [ref=e674]: 🇺🇸
+          - generic [ref=e675]:
+            - generic [ref=e676]:
+              - generic [ref=e677]: Amerika (USA)
+              - generic [ref=e678]: US
+            - generic [ref=e679]: Los Angeles • New York
+        - generic [ref=e680] [cursor=pointer]:
+          - generic [ref=e681]: 🇩🇪
+          - generic [ref=e682]:
+            - generic [ref=e683]:
+              - generic [ref=e684]: German (Germany)
+              - generic [ref=e685]: DE
+            - generic [ref=e686]: Hamburg • Frankfurt
+        - generic [ref=e687] [cursor=pointer]:
+          - generic [ref=e688]: 🇮🇹
+          - generic [ref=e689]:
+            - generic [ref=e690]:
+              - generic [ref=e691]: Italy
+              - generic [ref=e692]: IT
+            - generic [ref=e693]: Genoa • Milan
+        - generic [ref=e694] [cursor=pointer]:
+          - generic [ref=e695]: 🇸🇬
+          - generic [ref=e696]:
+            - generic [ref=e697]:
+              - generic [ref=e698]: Singapore
+              - generic [ref=e699]: SG
+            - generic [ref=e700]: Port of Singapore
+        - generic [ref=e701] [cursor=pointer]:
+          - generic [ref=e702]: 🇨🇳
+          - generic [ref=e703]:
+            - generic [ref=e704]:
+              - generic [ref=e705]: China
+              - generic [ref=e706]: CN
+            - generic [ref=e707]: Shanghai • Shenzhen
+        - generic [ref=e708] [cursor=pointer]:
+          - generic [ref=e709]: 🇯🇵
+          - generic [ref=e710]:
+            - generic [ref=e711]:
+              - generic [ref=e712]: Japan
+              - generic [ref=e713]: JP
+            - generic [ref=e714]: Tokyo • Yokohama
+        - generic [ref=e715] [cursor=pointer]:
+          - generic [ref=e716]: 🇳🇱
+          - generic [ref=e717]:
+            - generic [ref=e718]:
+              - generic [ref=e719]: Netherlands
+              - generic [ref=e720]: NL
+            - generic [ref=e721]: Rotterdam Hub
+        - generic [ref=e722] [cursor=pointer]:
+          - generic [ref=e723]: 🇮🇩
+          - generic [ref=e724]:
+            - generic [ref=e725]:
+              - generic [ref=e726]: Indonesia
+              - generic [ref=e727]: ID
+            - generic [ref=e728]: Jakarta • Surabaya • Medan
+        - generic [ref=e729] [cursor=pointer]:
+          - generic [ref=e730]: 🇺🇸
+          - generic [ref=e731]:
+            - generic [ref=e732]:
+              - generic [ref=e733]: Amerika (USA)
+              - generic [ref=e734]: US
+            - generic [ref=e735]: Los Angeles • New York
+        - generic [ref=e736] [cursor=pointer]:
+          - generic [ref=e737]: 🇩🇪
+          - generic [ref=e738]:
+            - generic [ref=e739]:
+              - generic [ref=e740]: German (Germany)
+              - generic [ref=e741]: DE
+            - generic [ref=e742]: Hamburg • Frankfurt
+        - generic [ref=e743] [cursor=pointer]:
+          - generic [ref=e744]: 🇮🇹
+          - generic [ref=e745]:
+            - generic [ref=e746]:
+              - generic [ref=e747]: Italy
+              - generic [ref=e748]: IT
+            - generic [ref=e749]: Genoa • Milan
+        - generic [ref=e750] [cursor=pointer]:
+          - generic [ref=e751]: 🇸🇬
+          - generic [ref=e752]:
+            - generic [ref=e753]:
+              - generic [ref=e754]: Singapore
+              - generic [ref=e755]: SG
+            - generic [ref=e756]: Port of Singapore
+        - generic [ref=e757] [cursor=pointer]:
+          - generic [ref=e758]: 🇨🇳
+          - generic [ref=e759]:
+            - generic [ref=e760]:
+              - generic [ref=e761]: China
+              - generic [ref=e762]: CN
+            - generic [ref=e763]: Shanghai • Shenzhen
+        - generic [ref=e764] [cursor=pointer]:
+          - generic [ref=e765]: 🇯🇵
+          - generic [ref=e766]:
+            - generic [ref=e767]:
+              - generic [ref=e768]: Japan
+              - generic [ref=e769]: JP
+            - generic [ref=e770]: Tokyo • Yokohama
+        - generic [ref=e771] [cursor=pointer]:
+          - generic [ref=e772]: 🇳🇱
+          - generic [ref=e773]:
+            - generic [ref=e774]:
+              - generic [ref=e775]: Netherlands
+              - generic [ref=e776]: NL
+            - generic [ref=e777]: Rotterdam Hub
+      - generic [ref=e779]:
+        - generic [ref=e786] [cursor=pointer]:
+          - generic [ref=e787]:
+            - generic [ref=e788]: VTP Logistik
+            - generic [ref=e789]: Enterprise
+          - generic [ref=e790]: Logistics Partner
+        - generic [ref=e797] [cursor=pointer]:
+          - generic [ref=e798]:
+            - generic [ref=e799]: Kawan Lama Solution
+            - generic [ref=e800]: Commercial
+          - generic [ref=e801]: Industrial & Retail
+        - generic [ref=e808] [cursor=pointer]:
+          - generic [ref=e809]:
+            - generic [ref=e810]: Sumber Aneka Karya Abadi
+            - generic [ref=e811]: Contract
+          - generic [ref=e812]: Distribution Supply
+        - generic [ref=e819] [cursor=pointer]:
+          - generic [ref=e820]:
+            - generic [ref=e821]: Samudera Shipping Line
+            - generic [ref=e822]: Carrier
+          - generic [ref=e823]: Maritime Carrier
+        - generic [ref=e830] [cursor=pointer]:
+          - generic [ref=e831]:
+            - generic [ref=e832]: Pelayaran Nasional Indonesia
+            - generic [ref=e833]: Marine
+          - generic [ref=e834]: Inter-Island Freight
+        - generic [ref=e841] [cursor=pointer]:
+          - generic [ref=e842]:
+            - generic [ref=e843]: Trans Asian Lines
+            - generic [ref=e844]: Alliance
+          - generic [ref=e845]: International Forwarding
+        - generic [ref=e852] [cursor=pointer]:
+          - generic [ref=e853]:
+            - generic [ref=e854]: Global Cargo Link
+            - generic [ref=e855]: Aviation
+          - generic [ref=e856]: Air Cargo Handling
+        - generic [ref=e863] [cursor=pointer]:
+          - generic [ref=e864]:
+            - generic [ref=e865]: VTP Logistik
+            - generic [ref=e866]: Enterprise
+          - generic [ref=e867]: Logistics Partner
+        - generic [ref=e874] [cursor=pointer]:
+          - generic [ref=e875]:
+            - generic [ref=e876]: Kawan Lama Solution
+            - generic [ref=e877]: Commercial
+          - generic [ref=e878]: Industrial & Retail
+        - generic [ref=e885] [cursor=pointer]:
+          - generic [ref=e886]:
+            - generic [ref=e887]: Sumber Aneka Karya Abadi
+            - generic [ref=e888]: Contract
+          - generic [ref=e889]: Distribution Supply
+        - generic [ref=e896] [cursor=pointer]:
+          - generic [ref=e897]:
+            - generic [ref=e898]: Samudera Shipping Line
+            - generic [ref=e899]: Carrier
+          - generic [ref=e900]: Maritime Carrier
+        - generic [ref=e907] [cursor=pointer]:
+          - generic [ref=e908]:
+            - generic [ref=e909]: Pelayaran Nasional Indonesia
+            - generic [ref=e910]: Marine
+          - generic [ref=e911]: Inter-Island Freight
+        - generic [ref=e918] [cursor=pointer]:
+          - generic [ref=e919]:
+            - generic [ref=e920]: Trans Asian Lines
+            - generic [ref=e921]: Alliance
+          - generic [ref=e922]: International Forwarding
+        - generic [ref=e929] [cursor=pointer]:
+          - generic [ref=e930]:
+            - generic [ref=e931]: Global Cargo Link
+            - generic [ref=e932]: Aviation
+          - generic [ref=e933]: Air Cargo Handling
+        - generic [ref=e940] [cursor=pointer]:
+          - generic [ref=e941]:
+            - generic [ref=e942]: VTP Logistik
+            - generic [ref=e943]: Enterprise
+          - generic [ref=e944]: Logistics Partner
+        - generic [ref=e951] [cursor=pointer]:
+          - generic [ref=e952]:
+            - generic [ref=e953]: Kawan Lama Solution
+            - generic [ref=e954]: Commercial
+          - generic [ref=e955]: Industrial & Retail
+        - generic [ref=e962] [cursor=pointer]:
+          - generic [ref=e963]:
+            - generic [ref=e964]: Sumber Aneka Karya Abadi
+            - generic [ref=e965]: Contract
+          - generic [ref=e966]: Distribution Supply
+        - generic [ref=e973] [cursor=pointer]:
+          - generic [ref=e974]:
+            - generic [ref=e975]: Samudera Shipping Line
+            - generic [ref=e976]: Carrier
+          - generic [ref=e977]: Maritime Carrier
+        - generic [ref=e984] [cursor=pointer]:
+          - generic [ref=e985]:
+            - generic [ref=e986]: Pelayaran Nasional Indonesia
+            - generic [ref=e987]: Marine
+          - generic [ref=e988]: Inter-Island Freight
+        - generic [ref=e995] [cursor=pointer]:
+          - generic [ref=e996]:
+            - generic [ref=e997]: Trans Asian Lines
+            - generic [ref=e998]: Alliance
+          - generic [ref=e999]: International Forwarding
+        - generic [ref=e1006] [cursor=pointer]:
+          - generic [ref=e1007]:
+            - generic [ref=e1008]: Global Cargo Link
+            - generic [ref=e1009]: Aviation
+          - generic [ref=e1010]: Air Cargo Handling
+    - generic [ref=e1016]:
+      - generic [ref=e1017]: Fast Response Freight Forwarding
+      - heading "Let's Move Your Cargo With Confidence." [level=2] [ref=e1020]
+      - paragraph [ref=e1021]: Contact our logistics advisory team today for customized ocean, air, or domestic multimodal freight rates tailored to your business schedule and specifications.
+      - generic [ref=e1022]:
+        - button "Request Quotation" [ref=e1023] [cursor=pointer]
+        - link "Instant WhatsApp" [ref=e1027] [cursor=pointer]:
+          - /url: https://wa.me/6285169626471?text=Halo%20Trans%20SabbaGlobal,%20saya%20ingin%20meminta%20penawaran%20harga%20(Request%20Quotation)...
+      - generic [ref=e1033]:
+        - generic [ref=e1034]: Cargo Insurance Ready
+        - generic [ref=e1039]: < 30 Mins Quote Turnaround
+    - generic [ref=e1045]:
+      - generic [ref=e1046]:
+        - generic [ref=e1047]: Direct Communication
+        - heading "Contact Trans SabbaGlobal" [level=2] [ref=e1050]
+        - paragraph [ref=e1051]: Connect directly with our dedicated freight forwarding officers for instant quotation, carrier scheduling, and customs compliance inquiries.
+      - generic [ref=e1052]:
+        - generic [ref=e1053]:
+          - generic [ref=e1054]:
+            - generic [ref=e1062]:
+              - heading "Irwan" [level=3] [ref=e1063]
+              - paragraph [ref=e1064]: Operational & Freight Forwarding Specialist
+            - generic [ref=e1068]: +62 851-6962-6471
+            - link "Chat WhatsApp Irwan" [ref=e1073] [cursor=pointer]:
+              - /url: https://wa.me/6285169626471?text=Halo%20Trans%20SabbaGlobal,%20saya%20ingin%20meminta%20penawaran%20harga%20(Request%20Quotation)...
+          - generic [ref=e1079]:
+            - generic [ref=e1087]:
+              - heading "Chairin" [level=3] [ref=e1088]
+              - paragraph [ref=e1089]: Commercial & Customer Relations Manager
+            - generic [ref=e1093]: +62 812-8883-5049
+            - link "Chat WhatsApp Chairin" [ref=e1098] [cursor=pointer]:
+              - /url: https://wa.me/6281288835049?text=Halo%20Trans%20SabbaGlobal,%20saya%20ingin%20meminta%20penawaran%20harga%20(Request%20Quotation)...
+          - generic [ref=e1104]:
+            - generic [ref=e1110]:
+              - generic [ref=e1111]: Official Corporate Email
+              - link "transsabbaglobal@gmail.com" [ref=e1112] [cursor=pointer]:
+                - /url: mailto:transsabbaglobal@gmail.com
+            - generic [ref=e1118]:
+              - generic [ref=e1119]: Head Office Location
+              - generic [ref=e1120]: Indonesia, Jakarta
+        - generic [ref=e1121]:
+          - generic [ref=e1122]:
+            - generic [ref=e1123]:
+              - heading "Request a Formal Quotation" [level=3] [ref=e1124]
+              - paragraph [ref=e1125]: Fill in your shipment details to connect via WhatsApp or email.
+            - generic [ref=e1126]: Instant Quote
+          - generic [ref=e1127]:
+            - generic [ref=e1128]:
+              - generic [ref=e1129]:
+                - generic [ref=e1130]: Your Name *
+                - textbox "Budi Santoso" [ref=e1131]
+              - generic [ref=e1132]:
+                - generic [ref=e1133]: Company Name
+                - textbox "PT. Maju Logistik" [ref=e1134]
+            - generic [ref=e1135]:
+              - generic [ref=e1136]:
+                - generic [ref=e1137]: Service Required *
+                - combobox [ref=e1138]:
+                  - option "Ocean Freight (FCL / LCL)" [selected]
+                  - option "Air Freight Express"
+                  - option "Domestic Logistics (Inter-Island)"
+                  - option "Project Cargo (Heavy Lift)"
+                  - option "Charter Vessel"
+                  - option "Customs Clearance (PPJK)"
+              - generic [ref=e1139]:
+                - generic [ref=e1140]: Consult with Officer
+                - combobox [ref=e1141]:
+                  - option "Irwan (+62 851-6962-6471 - Ops)" [selected]
+                  - option "Chairin (+62 812-8883-5049 - Commercial)"
+            - generic [ref=e1142]:
+              - generic [ref=e1143]:
+                - generic [ref=e1144]: Port / City of Origin *
+                - textbox "e.g. Tanjung Priok, Jakarta / Shanghai" [ref=e1145]
+              - generic [ref=e1146]:
+                - generic [ref=e1147]: Port / City of Destination *
+                - textbox "e.g. Hamburg, Germany / Surabaya" [ref=e1148]
+            - generic [ref=e1149]:
+              - generic [ref=e1150]: Cargo Description & Volume
+              - textbox "e.g. 2 x 40ft High Cube Container, general cargo, gross weight 24 tons, target departure next week." [ref=e1151]
+            - generic [ref=e1152]:
+              - button "Send Quotation to WhatsApp" [ref=e1153] [cursor=pointer]
+              - link "Send via Email" [ref=e1159] [cursor=pointer]:
+                - /url: mailto:transsabbaglobal@gmail.com?subject=Quotation%20Request%20-%20Ocean%20Freight&body=Nama%3A%20%0APerusahaan%3A%20%0ALayanan%3A%20Ocean%20Freight%0AOrigin%3A%20%0ADestination%3A%20%0ADetail%3A%20
+            - paragraph [ref=e1164]: Fast response guarantee • We protect your cargo specifications and privacy.
+    - generic [ref=e1166]:
+      - generic [ref=e1167]:
+        - generic [ref=e1168]:
+          - generic [ref=e1169]:
+            - generic [ref=e1170]: TSG
+            - generic [ref=e1172]:
+              - generic [ref=e1173]: TRANS SABBAGLOBAL
+              - generic [ref=e1174]: International Freight Forwarder & Supply Chain Logistics
+          - paragraph [ref=e1175]: Your Trusted International Freight Forwarder & Logistics Partner Delivering Reliable, Fast, and Efficient Supply Chain Solutions Worldwide.
+          - generic [ref=e1176]: Headquartered in Indonesia, Jakarta • Operating Globally
+        - generic [ref=e1181]:
+          - generic [ref=e1182]:
+            - generic [ref=e1183]: Operations & Freight Advisory
+            - generic [ref=e1184]: Irwan
+            - generic [ref=e1185]: +62 851-6962-6471
+            - link "Chat WhatsApp Irwan →" [ref=e1186] [cursor=pointer]:
+              - /url: https://wa.me/6285169626471?text=Halo%20Trans%20SabbaGlobal,%20saya%20ingin%20meminta%20penawaran%20harga%20(Request%20Quotation)...
+          - generic [ref=e1187]:
+            - generic [ref=e1188]: Commercial & Domestic Logistics
+            - generic [ref=e1189]: Chairin
+            - generic [ref=e1190]: +62 812-8883-5049
+            - link "Chat WhatsApp Chairin →" [ref=e1191] [cursor=pointer]:
+              - /url: https://wa.me/6281288835049?text=Halo%20Trans%20SabbaGlobal,%20saya%20ingin%20meminta%20penawaran%20harga%20(Request%20Quotation)...
+      - generic [ref=e1192]:
+        - generic [ref=e1193]:
+          - heading "Platform" [level=4] [ref=e1194]
+          - list [ref=e1195]:
+            - listitem [ref=e1196]:
+              - link "Visibility Tracking" [ref=e1197] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1198]:
+              - link "Ocean Freight Corridors" [ref=e1199] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1200]:
+              - link "Air Freight Alliances" [ref=e1201] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1202]:
+              - link "Domestic Rail & Trucking" [ref=e1203] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1204]:
+              - link "Ports & Terminals EDI" [ref=e1205] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1206]:
+              - link "Emissions & Green Logistics" [ref=e1207] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1208]:
+              - link "Tariff Analytics" [ref=e1209] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1210]:
+              - link "Yard & Port Management" [ref=e1211] [cursor=pointer]:
+                - /url: "#services"
+        - generic [ref=e1212]:
+          - heading "Solutions" [level=4] [ref=e1213]
+          - list [ref=e1214]:
+            - listitem [ref=e1215]:
+              - link "Enterprise Shippers" [ref=e1216] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1217]:
+              - link "Logistics Service Providers (LSPs)" [ref=e1218] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1219]:
+              - link "Automotive & Spare Parts" [ref=e1220] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1221]:
+              - link "Chemical & Hazardous Goods" [ref=e1222] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1223]:
+              - link "Food, Cold Chain & Beverage" [ref=e1224] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1225]:
+              - link "Heavy Manufacturing & Machinery" [ref=e1226] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1227]:
+              - link "Life Sciences & Pharma" [ref=e1228] [cursor=pointer]:
+                - /url: "#services"
+            - listitem [ref=e1229]:
+              - link "Retail & FMCG E-commerce" [ref=e1230] [cursor=pointer]:
+                - /url: "#services"
+        - generic [ref=e1231]:
+          - heading "Carriers & Ports" [level=4] [ref=e1232]
+          - list [ref=e1233]:
+            - listitem [ref=e1234]:
+              - link "Carrier Partner Network" [ref=e1235] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1236]:
+              - link "Vessel Space Allocation" [ref=e1237] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1238]:
+              - link "Support Portal" [ref=e1239] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1240]:
+              - link "EDI & API Integration" [ref=e1241] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1242]:
+              - link "Tug & Barge Registry" [ref=e1243] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1244]:
+              - link "Customs Green-Channel Hub" [ref=e1245] [cursor=pointer]:
+                - /url: "#why-us"
+        - generic [ref=e1246]:
+          - heading "Resources" [level=4] [ref=e1247]
+          - list [ref=e1248]:
+            - listitem [ref=e1249]:
+              - link "Customer Case Studies" [ref=e1250] [cursor=pointer]:
+                - /url: "#our-story"
+            - listitem [ref=e1251]:
+              - link "Industry Insights & Whitepapers" [ref=e1252] [cursor=pointer]:
+                - /url: "#our-story"
+            - listitem [ref=e1253]:
+              - link "Global Shipping Index" [ref=e1254] [cursor=pointer]:
+                - /url: "#our-story"
+            - listitem [ref=e1255]:
+              - link "Customs Duty Calculator" [ref=e1256] [cursor=pointer]:
+                - /url: "#our-story"
+            - listitem [ref=e1257]:
+              - link "Container Specifications Guide" [ref=e1258] [cursor=pointer]:
+                - /url: "#our-story"
+            - listitem [ref=e1259]:
+              - link "Incoterms 2020 Cheat Sheet" [ref=e1260] [cursor=pointer]:
+                - /url: "#our-story"
+        - generic [ref=e1261]:
+          - heading "Company" [level=4] [ref=e1262]
+          - list [ref=e1263]:
+            - listitem [ref=e1264]:
+              - link "About Trans SabbaGlobal" [ref=e1265] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1266]:
+              - link "Leadership & Management" [ref=e1267] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1268]:
+              - link "Careers & Port Operations" [ref=e1269] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1270]:
+              - link "Privacy Policy" [ref=e1271] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1272]:
+              - link "Terms of Carriage" [ref=e1273] [cursor=pointer]:
+                - /url: "#why-us"
+            - listitem [ref=e1274]:
+              - link "Security & Compliance" [ref=e1275] [cursor=pointer]:
+                - /url: "#why-us"
+      - generic [ref=e1276]:
+        - generic [ref=e1277]: © 2026 PT Trans SabbaGlobal. All rights reserved. Registered International Freight Forwarder Indonesia.
+        - generic [ref=e1278]:
+          - generic [ref=e1279]: Global Port Operations
+          - button "Back to Top" [ref=e1283] [cursor=pointer]
+  - alert [ref=e1287]
